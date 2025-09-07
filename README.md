@@ -16,9 +16,4 @@ It combines **traditional Machine Learning models** with **Deep Learning (BiLSTM
 
 ## 📊 Results
 - **Random Forest** → Accuracy: 93%, F1-score: 0.93, AUC: 0.96  
-- **BiLSTM** → Accuracy: 98%, strong performance in handling sequential and emoji-based text.  
-
-## 🚀 How to Run
-Clone this repository:
-```bash
-git clone https://github.com/YOUR-USERNAME/sentiment-analysis-reviews.git
+- **BiLSTM** → Accuracy: 98%, strong performance in handling sequential and emoji-based text.
