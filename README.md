@@ -17,3 +17,6 @@ It combines **traditional Machine Learning models** with **Deep Learning (BiLSTM
 ## 📊 Results
 - **Random Forest** → Accuracy: 93%, F1-score: 0.93, AUC: 0.96  
 - **BiLSTM** → Accuracy: 98%, strong performance in handling sequential and emoji-based text.
+
+## 🛠️ Tools & Libraries
+Python • NLTK • Scikit-learn • TensorFlow/Keras • Imbalanced-learn • Matplotlib
